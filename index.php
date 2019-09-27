@@ -1,6 +1,6 @@
-Wellcome!
-<a href="about-us">About us</a>
-<a href="contact-us">Contact us</a>
+
+<!--<a href="about-us/4">About us</a>-->
+<!--<a href="contact-us">Contact us</a>-->
 <?php
     require_once 'Routes.php';
 
@@ -12,4 +12,5 @@ Wellcome!
         }
 
     }
+
 ?>
